@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moni-adithya-6089401b7/)](https://www.linkedin.com/in/moni-adithya-6089401b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-MoniAdithya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moni-adithya-6089401b7/)](https://www.linkedin.com/in/moni-adithya-6089401b7/)
 
 
 I'm
